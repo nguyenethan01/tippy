@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tippy*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tippy** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Ethan Nguyen**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -21,7 +21,6 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough 
 
@@ -33,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Being as this was my first time using xcode and the swift programming language, this was a great starter project to expand my knowledge of the environment as quickly and intuitively as possible.
 
 ## License
 
