@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/UnZ7Y4g6Qg.gif />
+<img src='http://g.recordit.co/UnZ7Y4g6Qg.gif width = 250><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
